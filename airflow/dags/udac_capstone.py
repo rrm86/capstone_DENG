@@ -23,7 +23,7 @@ default_args = {
 dag = DAG('capstone',
           default_args=default_args,
           description='Load and transform data in Redshift with Airflow',
-          schedule_interval='@hourly')
+          schedule_interval='@monthly')
 
 start_operator = DummyOperator(task_id='Begin_execution', dag=dag)
 
