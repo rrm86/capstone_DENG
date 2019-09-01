@@ -27,13 +27,13 @@ Transformation, Storage, and Query: Original data is first transported and store
 
 Below you can check the data dictionary and the data model.
 
-![capstone_star](img/capstone_star.jpg)
+![capstone_star](img/capstone_star.png)
 
 Data flow management: For this task I use airflow.  Below you can see a DAG for our data flow.
 
 These tools are widely adopted by the industry, with airflow being an open source tool.
 
-![capstone_airflow](img/capstone_airflow.jpg)
+![capstone_airflow](img/capstone_airflow.png)
 
 ## Questions
 ****The data was increased by 100x:****
