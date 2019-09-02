@@ -16,7 +16,7 @@ The dataset consists of json / CSV files divided into three themes:
 
 - States: Composed of economic and population data of each state.
 
-- Region: Composto por dados referentes a área em Km de cada região.
+- Region: Composed of data referring to the area in Km of each region.
 
 ## Scope
 The project makes use of three different tools to fulfill different purposes:
